@@ -1,0 +1,723 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+    .dot-green-2 {
+        width: 300px;
+        height: 300px;
+        right: 25%;
+        bottom: 75px;
+    }
+    img.dubble-circle {
+        top: -35px;
+    }
+    img.circle-blue {
+        top: -30%;
+        width: 170px;
+    }
+    img.circle-green {
+        top: 50%;
+        width: 200px;
+    }
+    span.bubble-1 {
+        right: 8%;
+    }
+    span.bubble-2 {
+        right: 37%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1367px) {
+    .hero-text h1 {
+        font-size: 60px;
+    }
+    .dot-green {
+        width: 290px;
+        height: 290px;
+    }
+    .about-right ul li {
+        font-size: 20px;
+    }
+    .about-right h2 {
+        font-size: 32px;
+        color: #323433;
+    }
+    .assists-icon img {
+        width: 60px;
+    }
+    .about-right p {
+        font-size: 22px;
+    }
+    .plan-left h2 {
+        font-size: 36px;
+    }
+    .plan-list ul li {
+        font-size: 20px;
+    }
+    img.dubble-circle {
+        top: -35px;
+        width: 300px;
+    }
+    .area-title h2 {
+        font-size: 36px;
+    }
+    .report-bottom h2 {
+        font-size: 100px;
+    }
+    .report-title h2 {
+        font-size: 40px;
+    }
+    .plan-list ul li {
+        margin-bottom: 40px;
+    }
+	.header-btn {
+	    margin-left: 140px;
+	}
+	.mainmenu-wrap ul li {
+	    display: inline;
+	    margin-left: 65px;
+	}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    .mainmenu-wrap ul li {
+        display: inline;
+        margin-left: 35px;
+    }
+    .header-btn {
+        margin-left: 80px;
+    }
+    .hero-text h1 {
+        font-size: 50px;
+    }
+    .dot-green-2 {
+        width: 280px;
+        height: 280px;
+        right: 27%;
+        bottom: 120px;
+    }
+    .dot-green {
+        width: 280px;
+        height: 280px;
+        left: -160px;
+        top: 15%;
+        z-index: -1;
+    }
+    .about-right ul li {
+        font-size: 20px;
+        letter-spacing: 0;
+    }
+    .about-right p {
+        font-size: 20px;
+    }
+    .assists-text h4 {
+        font-size: 18px;
+    }
+    .assists-icon img {
+        width: 45px;
+    }
+    .about-right h2 {
+        font-size: 32px;
+        line-height: 140.4%;
+    }
+    .plan-left h2 {
+        font-size: 32px;
+    }
+    .plan-left p {
+        font-size: 20px;
+    }
+    .plan-list ul li {
+        font-size: 18px;
+        margin-bottom: 40px;
+    }
+    img.dubble-circle {
+        width: 260px;
+    }
+    .plan-list {
+        margin-top: 40px;
+    }
+    .area-title h2 {
+        font-size: 32px;
+        line-height: 150.4%;
+    }
+    .report-bottom h2 {
+        font-size: 90px;
+    }
+    .report-title h2 {
+        font-size: 40px;
+    }
+    .report-bottom h2 sub {
+        font-size: 30px;
+    }
+    img.circle-blue {
+        top: -20%;
+        width: 120px;
+    }
+    img.circle-green {
+        position: absolute;
+        right: 0;
+        top: 50%;
+        z-index: -1;
+        transform: translateY(-50%);
+        width: 150px;
+    }
+   
+
+
+
+
+
+
+}
+
+
+
+
+/* LG Device :992px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .mainmenu-wrap ul li {
+        display: inline;
+        margin-left: 25px;
+    }
+    a.signup-btn {
+        padding: 8px 25px;
+        margin-left: 25px;
+    }
+    .header-btn {
+        margin-left: 25px;
+    }
+    .hero-text h1 {
+        font-size: 45px;
+    }
+    .hero-text p {
+        font-size: 20px;
+    }
+    .hero-area {
+        height: 600px;
+    }
+    .dot-green-2 {
+        width: 232px;
+        height: 232px;
+        right: 32%;
+        bottom: 45px;
+    }
+    .dot-green {
+        width: 280px;
+        height: 280px;
+        left: -180px;
+        top: 18%;
+    }
+    .hero-text {
+        margin-top: 0;
+    }
+    .about-left {
+        width: 320px;
+    }
+    img.circle-big {
+        left: -9px;
+        top: 65px;
+        width: 200px;
+    }
+    img.circle-1 {
+        top: 31%;
+        left: -8px;
+        z-index: -1;
+        width: 70px;
+    }
+    img.circle-2 {
+        bottom: 0;
+        right: -40px;
+        bottom: -2px;
+        width: 100px;
+    }
+    img.circle-3 {
+        width: 75px;
+        position: absolute;
+        bottom: -40px;
+        right: 5px;
+        z-index: 3;
+    }
+    .about-right h2 {
+        font-size: 28px;
+        line-height: 150.4%;
+    }
+    .about-right ul li {
+        font-size: 18px;
+        letter-spacing: 0;
+    }
+    .about-right ul {
+        padding-left: 0;
+        margin-top: 35px;
+    }
+    .yoomi-assists-warp {
+        margin-top: 50px;
+        padding-left: 0;
+    }
+    span.bubble-1 {
+        right: 8%;
+        top: 31px;
+    }
+    .about-right p {
+        font-size: 18px;
+    }
+    .assists-text h4 {
+        font-size: 14px;
+    }
+    .assists-box {
+        padding: 10px;
+    }
+    .plan-left h2 {
+        font-size: 30px;
+    }
+    .social-link ul li {
+        margin-right: 3px;
+    }
+    .plan-left p {
+        font-size: 18px;
+    }
+    .plan-list ul li {
+        font-size: 18px;
+        margin-bottom: 40px;
+    }
+    .plan-right {
+        padding-left: 0;
+    }
+    .plan-left {
+        padding-right: 50px;
+    }
+    .plan-card img {
+        width: 30px;
+        margin-right: 12px;
+        margin-top: 0;
+    }
+    .plan-txt h4 {
+        font-size: 20px;
+    }
+    .plan-txt p {
+        font-size: 14px;
+    }
+    .report-title h2 {
+        font-size: 30px;
+    }
+    .report-title span {
+        font-size: 16px;
+    }
+    .report-bottom h2 {
+        font-size: 60px;
+    }
+    .report-bottom h2 sub {
+        font-size: 20px;
+    }
+    .reports-txt-box {
+        padding: 20px 15px;
+    }
+    .area-title h2 {
+        font-size: 32px;
+    }
+    img.circle-green {
+        top: 47%;
+        width: 150px;
+    }
+    .plan-list.communication-list li img {
+        margin-right: 20px;
+        width: 36px;
+    }
+    .plan-list li br {
+        display: none;
+    }
+    img.circle-blue {
+        top: -20%;
+        width: 100px;
+    }
+    .signup-area h2 {
+        font-size: 22px;
+    }
+    .social-link li a {
+        width: 32px;
+        height: 32px;
+        line-height: 31px;
+        font-size: 15px;
+    }
+    .social-link {
+        margin-bottom: 40px;
+        padding-left: 0;
+    }
+    .footer-widget p {
+        font-size: 14px;
+    }
+    .footer-widget.widget-two {
+        padding-left: 0;
+    }
+    .footer-bottom {
+        padding: 20px 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+/* SM Small Device :320px. */
+@media only screen and (max-width: 767px) {
+    img.dubble-circle {
+        display: none;
+    }
+    img.circle-green {
+        display: none;
+    }
+    .dot-green {
+        display: none;
+    }
+    .dot-green-2 {
+        display: none;
+    }
+    .about-left {
+        width: 270px;
+        margin: 0 auto;
+        margin-bottom: 150px;
+    }
+    .about-right h2 {
+        font-size: 24px;
+        display: block;
+        text-align: center;
+    }
+    .about-right ul li {
+        font-size: 18px;
+        letter-spacing: 0;
+    }
+    .about-right p {
+        font-size: 20px;
+    }
+    .about-right li br {
+        display: none;
+    }
+    .yoomi-assists-warp {
+        margin-top: 70px;
+        padding-left: 0;
+    }
+    .assists-icon {
+        width: 36px;
+    }
+    .assists-text h4 {
+        font-size: 17px;
+        margin: 0;
+    }
+    .about-right ul li {
+        font-size: 15px;
+        letter-spacing: 0;
+    }
+    span.bubble-2 {
+        width: 35px;
+        height: 35px;
+        right: -5%;
+        bottom: 0px;
+        z-index: -1;
+    }
+    .plan-area {
+        padding-top: 100px;
+        padding-bottom: 80px;
+    }
+    .plan-left h2 {
+        font-size: 24px;
+        display: block;
+        text-align: center;
+    }
+    .plan-left p {
+        font-size: 16px;
+        text-align: center;
+    }
+    .plan-list ul li {
+        display: flex;
+        font-size: 16px;
+        margin-bottom: 35px;
+    }
+    .plan-right {
+        padding-left: 0;
+        margin-top: 50px;
+    }
+    .plan-card {
+        left: 25px;
+        bottom: 40px;
+    }
+    .area-title h2 br {
+        display: none;
+    }
+    .area-title h2 {
+        font-size: 24px;
+    }
+    .reports-txt-box {
+        background: #F3F3F3;
+        border-radius: 10px;
+        margin: 50px auto;
+        padding: 25px;max-width: 380px;
+    }
+    .report-title h2 {
+        font-size: 30px;
+    }
+    .report-title span {
+        font-size: 18px;
+    }
+    .reports-left {
+        text-align: center;
+    }
+    .reports-left.report-right {
+        padding-left: 0;
+    }
+    img.circle-blue {
+        display: none;
+    }
+    .signup-area h2 {
+        font-size: 18px;
+    }
+    .signup-area h2 br {
+        display: none;
+    }
+    .signup-area {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .footer-widget {
+        text-align: center;
+        margin: 35px 0;
+    }
+    .footer-widget br {
+        display: none;
+    }
+    .footer-widget.widget-two {
+        padding-left: 0;
+    }
+    .footer-top {
+        padding-bottom: 25px;
+    }
+    .social-link {
+        margin-bottom: 25px;
+        padding-left: 0;
+    }
+    .social-link li a{
+        margin: 0 5px;
+    }
+    .footer-bottom {
+        text-align: center;
+        padding: 20px 0;
+    }
+    footer.footer-area {
+        padding-top: 35px;
+    }
+
+    .communication {
+        margin-top: 50px;
+    }
+    .communication-area {
+        padding: 60px 0;
+    }
+
+    .plan-left br {
+        display: none;
+    }
+    .yoomi-assists {
+        display: grid;
+        grid-template-columns: repeat(2, 155px);
+        margin-top: 25px;
+        grid-gap: 15px;
+    }
+    .plan-area {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .about-right ul {
+        padding-left: 0;
+    }
+    .subscription-box input {
+        width: 100%;
+        height: 54px;
+        margin-bottom: 20px;
+        padding: 15px;
+    }
+    .hero-text h1 {
+        font-size: 30px;
+    }
+    .about-area {
+        padding: 60px 0;
+        overflow: hidden;
+    }
+    img.circle-big {
+        left: -35px;
+        top: 65px;
+        width: 170px;
+    }
+  img.circle-2 {
+    right: -35px;
+    bottom: -100px;
+    width: 90px;
+}
+    img.circle-3 {
+        width: 70px;
+        bottom: -40px;
+        right: -15px;
+    }
+    .hero-text p {
+        font-size: 16px;
+    }
+    .subscription-box {
+        margin-top: 60px;
+    }
+    .hero-text {
+        margin-top: 50px;
+    }
+    .mainmenu-wrap {
+        position: fixed;
+        width: 240px;
+        right: -100%;
+        z-index: 999;
+        height: 100vh;
+        background: rgba(0, 0, 0, 0.80);
+        mix-blend-mode: normal;
+        backdrop-filter: blur(14px);
+        top: 0;
+        padding: 20px;
+        transition: .3s;
+        padding-top: 100px;
+        opacity: 0;
+        visibility: hidden;
+    }
+    .mainmenu-wrap.active {
+        right: 0;
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .mainmenu-wrap ul li {
+        display: block;
+        margin: 0;
+        margin-bottom: 20px !important;
+    }
+    .mainmenu-wrap ul li a {
+        display: block;
+        font-size: 18px;
+    }
+    .menu_x{
+        display:inline-block ;
+    }
+    a.signup-btn {
+        padding: 7px 18px;
+        margin-left: 15px;
+        font-size: 15px;
+    }
+    .header-btn a {
+        font-size: 15px;
+        letter-spacing: 0;
+    }
+    .header-btn {
+        margin-left: 0;
+        margin-right: 15px;
+    }
+    .menu_trigger {
+        color: #fff;
+        cursor: pointer;
+        font-size: 28px;
+    }
+    span.bubble-1 {
+        width: 25px;
+        height: 25px;
+        right: 7%;
+        top: 15px;
+    }
+    .assists-box {
+        padding: 12px;
+    }
+    .assists-text h4 {
+        font-size: 15px;
+        margin: 0;
+    }
+    .about-right p {
+        font-size: 18px;
+    }
+    .menu_trigger {
+        display: inline-block;
+    }
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+  
+    
+    
+ 
+}
